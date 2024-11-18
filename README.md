@@ -1,2 +1,2 @@
 # Sentiment_Analysis
-Sentiment analysis for drug reviews
+Developed a sentiment analysis project to assess the effectiveness and public perception of medications based on drug reviews. Utilized Python with NLTK for preprocessing and Bag of Words representation. Employed classification algorithms including KNN, Naive Bayes, SVM, and Logistic Regression to classify sentiments. Integrated LIME and SHAP for model interpretability, providing valuable insights into drug efficacy. Additionally, implemented a BERT model for improved performance and used Streamlit to build an interactive UI for better user experience.
