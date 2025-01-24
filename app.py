@@ -67,7 +67,7 @@ def stem_text(tokens):
     return stemmed_tokens
 
 #READING THE CSV FILE
-DF2 = pd.read_csv('/content/Preprocessed_DataFrame.csv')
+DF2 = pd.read_csv('Preprocessed_DataFrame.csv')
 print(DF2)
 # 
 # 
