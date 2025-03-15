@@ -12,7 +12,7 @@ Sentiment analysis of drug reviews using various machine learning models to dete
 
 ## 🛠️ Tech Stack
 - **Frontend:** Streamlit
-- **Backend:** Python (Flask for API, if applicable)
+- **Backend:** Python
 - **Machine Learning:** Scikit-learn, NLTK, TensorFlow (BERT)
 - **Data Storage:** CSV / Pandas DataFrames
 
@@ -37,7 +37,6 @@ Check out the live deployment of the project:
 ## 🎯 Future Enhancements
 - Add real-time sentiment analysis for live reviews.
 - Improve model accuracy with advanced NLP techniques.
-- Deploy the model as a web API.
 
 ## 📬 Contact
 For any queries or suggestions, feel free to reach out!
